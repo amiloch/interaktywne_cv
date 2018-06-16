@@ -4,5 +4,6 @@
 ### Edukacja
 ---
 ### Narzędzia testerskie
+[![Selenium](https://youtu.be/Gum6WvZi20c)]
 ---
 ### Zainteresowania

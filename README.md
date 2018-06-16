@@ -2,8 +2,10 @@
 ### Poznaj mnie
 ---
 ### Edukacja
+[![WSB](https://www.wsb.pl/wroclaw/kandydaci/studia-podyplomowe/kierunki/tester-oprogramowania-dla-aplikacji-mobilnych-i-serwerowych)
+
 ---
 ### Narzędzia testerskie
-[![Selenium](https://youtu.be/Gum6WvZi20c)]
+
 ---
 ### Zainteresowania
